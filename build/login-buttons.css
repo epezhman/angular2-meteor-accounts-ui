@@ -2,8 +2,11 @@
   position: relative;
   display: inline-block;
 }
-.login-buttons .dropdown-toggle span {
+.login-buttons .dropdown-toggle {
   cursor: pointer;
+}
+.login-buttons .dropdown-toggle:hover {
+  opacity: 1;
 }
 .login-buttons .accounts-close {
   position: absolute;
