@@ -22,7 +22,7 @@
 .login-buttons .content-container {
   position: absolute;
   top: 0;
-  left: 0;
+  right: 0;
   border: 1px solid #ccc;
   z-index: 1000;
   background: white;
