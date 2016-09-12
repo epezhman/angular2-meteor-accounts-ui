@@ -1,5 +1,5 @@
 "use strict";
-var meteor_1 = require('meteor/meteor');
+var meteor_1 = require("meteor/meteor");
 var InjectUserAnnotation = (function () {
     function InjectUserAnnotation(propName) {
         if (propName === void 0) { propName = 'user'; }

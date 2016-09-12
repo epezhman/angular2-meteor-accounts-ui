@@ -1,6 +1,6 @@
-import { NgZone } from '@angular/core';
-import { Tracker } from 'meteor/tracker';
-import { Meteor } from 'meteor/meteor';
+import { NgZone } from "@angular/core";
+import { Tracker } from "meteor/tracker";
+import { Meteor } from "meteor/meteor";
 export interface LoginCredentials {
     email: string;
     password: string;

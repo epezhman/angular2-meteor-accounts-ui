@@ -1,4 +1,4 @@
-import { CanActivate } from '@angular/router';
+import { CanActivate } from "@angular/router";
 export declare function InjectUser(propName?: string): (cls: any) => any;
 /**
  * A service to use as auth guard on the route.
